@@ -1,0 +1,16 @@
+setup.py
+Test1/__init__.py
+Test1/items.py
+Test1/middlewares.py
+Test1/pipelines.py
+Test1/session.py
+Test1/settings.py
+Test1/spiders/Dummy.py
+Test1/spiders/__init__.py
+Test1/spiders/dummy2.py
+Test1/spiders/test_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

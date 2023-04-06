@@ -1,0 +1,2 @@
+[scrapy]
+settings = Test1.settings
